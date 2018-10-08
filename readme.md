@@ -53,7 +53,7 @@ where you will need to set the `url=` parameter with the link created by **gitdo
 At this point when you type `git.io/mycool-name` that will be redirected to `your-beautiful-site.com`
 
 
-## Note ⚠️
+## attention!! Note ⚠️
 
 Websites won't be checked, but keep in mind to don't redirect to any abusive, racist or sexist website.
 
